@@ -17,19 +17,9 @@ function InfoBox({info}) {
     const RAIN_PHOTO_URL="https://images.unsplash.com/photo-1615498026897-6a4d5e68f04d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHJhaW4lMjB3ZWF0aGVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D";
     const COLD_PHOTO_URL="https://images.unsplash.com/photo-1528191710846-99b8717a2830?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sZCUyMHdlYXRoZXIlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D";
 
-    // let info = {
-    //     city: "Delhi",
-    //     feelsLike: 24.84,
-    //     temp: 25.05,
-    //     tempMin: 25.05,
-    //     tempMax: 25.05,
-    //     humidity: 47,
-    //     weather: "haze",
-    // }
 
     return (
         <div className='InfoBox'>
-            {/* <h1>WeatherInfo - {info.weather}</h1> */}
             <div className='cardContainer'>
                 <Card sx={{ maxWidth: 345 }}>
                     <CardMedia
