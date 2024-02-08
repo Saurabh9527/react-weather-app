@@ -8,9 +8,9 @@ Dynamic Backgrounds: The app automatically changes the background photo based on
 Weather Information: Displays essential weather information such as temperature, humidity, and weather description.
 
 # Technologies Used
-React: JavaScript library for building user interfaces.
-CSS: Styling the components and layout.
-Material UI: Stylish and customizable UI components for React.
+- React: JavaScript library for building user interfaces.
+- CSS: Styling the components and layout.
+- Material UI: Stylish and customizable UI components for React.
 
 # React + Vite
 
