@@ -16,3 +16,8 @@ Weather Information: Displays essential weather information such as temperature,
 
 https://weather-app-deployement.netlify.app/
 
+# Screenshots 📷
+
+![weather](https://github.com/Saurabh9527/react-weather-app/assets/136837795/46b7f24b-2c94-4bbc-93d4-4b2e61f527e6)
+
+
