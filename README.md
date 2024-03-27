@@ -1,6 +1,6 @@
 
 # Weather App
-A simple and stylish weather application built with React, CSS, and Material UI. This app utilizes a weather API to fetch real-time weather data and dynamically changes the background photo based on the current weather conditions.
+A simple and stylish weather application built with React, CSS, and Material UI. This app utilizes a weather API to fetch real-time weather data and dynamically changes the background photo based on the current weather conditions. 
 
 # Features
 Dynamic Backgrounds: The app automatically changes the background photo based on the current weather conditions, making it visually appealing.
